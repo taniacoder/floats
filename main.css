@@ -1,0 +1,56 @@
+#contenedor { border: 1px solid grey;
+				height: 100px;
+				width: 600px;
+}
+
+.amarillo {
+			width: 150px;
+			height: 100px;
+			background: yellow;
+			float: left;
+}
+
+.celeste {
+			width: 150px;
+			height: 100px;
+			background: #4BA7FD;
+			float: left;
+}
+
+.rosado {
+			width: 150px;
+			height: 100px;
+			background: #F04595;
+			float: left;
+}
+
+
+#contenedor2 { border: 1px solid grey;
+				height: 300px;
+				width: 500px;
+
+
+}
+
+.amarillo2 {
+			width: 150px;
+			height: 100px;
+			background: yellow;
+			float: both;
+			
+}
+
+.celeste2 {
+			width: 150px;
+			height: 100px;
+			background: #4BA7FD;
+			float: both;
+}
+
+.rosado2 {
+			width: 150px;
+			height: 100px;
+			background: #F04595;
+			float: both;
+			
+}
